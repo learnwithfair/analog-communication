@@ -7,7 +7,6 @@
 
 Thanks for visiting my GitHub account!
 
-<img src ="https://cdn-icons-png.flaticon.com/512/919/919826.png" height = "200px" width = "200px"/> 
 An **analog communication system** is a communication system where the information signal sent from point A to point B can only be described as an analog signal. [see-more](https://www.tutorialspoint.com/analog_communication/analog_communication_introduction.htm)
 
 
